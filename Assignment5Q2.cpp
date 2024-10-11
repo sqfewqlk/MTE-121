@@ -79,9 +79,6 @@ int main()
 }
 
 /*
-file output:
-
-
 Job Number      Cost
       6304    464.64
       6305    351.12
@@ -99,7 +96,4 @@ Job Number      Cost
 The max cost of all jobs was $118262.70
 The total cost of all jobs was $124786.53
 The average cost of all jobs was $9598.96
-
-
-
 */
